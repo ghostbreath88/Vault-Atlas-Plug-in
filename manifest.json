@@ -1,0 +1,9 @@
+{
+  "id": "vault-atlas-plugin",
+  "name": "Vault Atlas",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Dashboard and graph explorer for your vault.",
+  "author": "ghostbreath88",
+  "isDesktopOnly": false
+}
